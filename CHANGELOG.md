@@ -1,3 +1,5 @@
+### 1.31.0
+* [46a3fe6](https://github.com/kubernetes/charts/commit/46a3fe6): Bump up GoCD Version to 20.8.0
 ### 1.30.0
 * [e97a5d88f](https://github.com/kubernetes/charts/commit/e97a5d88f): Bump up GoCD Version to 20.7.0
 ### 1.29.0
